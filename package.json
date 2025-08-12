@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js_118_Mykhailenko-Oleksandr/",
+    "build": "vite build --base=/js_118_Mykhailenko-Oleksand/",
     "preview": "vite preview"
   },
   "devDependencies": {
